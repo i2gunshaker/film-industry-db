@@ -1,0 +1,51 @@
+RoleID,RoleName,RoleType
+1,Director,Crew
+2,Writer,Crew
+3,Producer,Crew
+4,Executive Producer,Crew
+5,Co-Producer,Crew
+6,Associate Producer,Crew
+7,Editor,Crew
+8,Cinematographer,Crew
+9,Composer,Crew
+10,Sound Designer,Crew
+11,Production Designer,Crew
+12,Art Director,Crew
+13,Costume Designer,Crew
+14,Makeup Artist,Crew
+15,Visual Effects Supervisor,Crew
+16,Special Effects Supervisor,Crew
+17,Stunt Coordinator,Crew
+18,Casting Director,Crew
+19,Script Supervisor,Crew
+20,Gaffer,Crew
+21,Best Boy,Crew
+22,Key Grip,Crew
+23,Boom Operator,Crew
+24,Colorist,Crew
+25,Music Supervisor,Crew
+26,Sound Mixer,Crew
+27,Location Manager,Crew
+28,Unit Production Manager,Crew
+29,Post-Production Supervisor,Crew
+30,Storyboard Artist,Crew
+31,Lead Actor,Cast
+32,Supporting Actor,Cast
+33,Cameo,Cast
+34,Voice Actor,Cast
+35,Narrator,Cast
+36,Extra,Cast
+37,Motion Capture Performer,Cast
+38,Choreographer,Crew
+39,Set Decorator,Crew
+40,Props Master,Crew
+41,Still Photographer,Crew
+42,Publicist,Crew
+43,ADR Recordist,Crew
+44,Sound Editor,Crew
+45,Dialogue Coach,Crew
+46,Translator,Crew
+47,Dialect Coach,Crew
+48,Music Arranger,Crew
+49,Conductor,Crew
+50,Fight Choreographer,Crew
